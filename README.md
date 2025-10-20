@@ -2,6 +2,8 @@
 顕微鏡画像解析：ノイズ除去・粒子解析・Deep Learning 応用デモ
 
 ---
+## License
+Licensed under the MIT License (free for use, modification, and commercial redistribution).
 
 ## 🧭 Overview
 
