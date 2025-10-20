@@ -1,6 +1,3 @@
-# microscopy_image-analysis
-顕微鏡画像のノイズ除去と粒子解析
-
 # Microscopy Image Analysis  
 顕微鏡画像解析：ノイズ除去・粒子解析・Deep Learning 応用デモ
 
