@@ -30,6 +30,10 @@ You can directly run each notebook on Google Colab using the buttons below 👇
 | **Binarize.ipynb** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suzuki-ma/microscopy_image-analysis/blob/main/notebooks/Binarize.ipynb) |
 | **kmeans.ipynb** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suzuki-ma/microscopy_image-analysis/blob/main/notebooks/kmeans.ipynb) |
 | **Cellpose.ipynb** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suzuki-ma/microscopy_image-analysis/blob/main/notebooks/Cellpose.ipynb) |
+| **Evaluation.ipynb** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suzuki-ma/microscopy_image-analysis/blob/main/notebooks/Evaluation.ipynb) |
+| **Binarize_粒子解析.ipynb** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suzuki-ma/microscopy_image-analysis/blob/main/notebooks/Binarize_%E7%B2%92%E5%AD%90%E8%A7%A3%E6%9E%90.ipynb) |
+| **kmeans_ver2.ipynb** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suzuki-ma/microscopy_image-analysis/blob/main/notebooks/kmeans_ver2.ipynb) |
+| **phaze_noise_reduction.ipynb** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suzuki-ma/microscopy_image-analysis/blob/main/notebooks/phaze_noise_reduction.ipynb) |
 
 ---
 
